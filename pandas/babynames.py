@@ -2,13 +2,11 @@
 import pandas as pd
 import os
 
-PATH = 'names/'
-
 names = []
+PATH = 'names/'
 
 for fn in sorted(os.listdir(PATH)):
     if not fn.endswith('.txt'): continue
-    print(fn)
     df = pd.read_csv(PATH + fn, names=['name', 'gender', 'count'])
     df['year'] = int(fn[-8:-4])
     names.append(df)
@@ -25,8 +23,15 @@ girls = names[names.gender=='F']
 
 # statistics on single names
 def findname(df, name): 
-    return df[df['name']==name].sort('year')
+    return df[df['name']==name].sort_values('year')
 print(findname(boys, "Tyrion"))
+
+
+tyrion[['year', 'count']].transpose()
+ty = tyrion.set_index('year')
+ty['count']
+
+max(boys[boys['name']=="Donald"]['count'])
 
 # total population
 g = names.groupby('year')
