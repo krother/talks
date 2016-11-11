@@ -5,3 +5,6 @@ The pandas library is a key tool for data analysis in Python. It implements idea
 
 The talk presents an analysis of baby names from the last 130 years, an example adopted from Wes McKinneys book **"Python for Data Analysis"**. We will discuss pros and cons of approach used for the pandas API.
 
+## Compiling the talk
+
+    jupyter nbconvert pandas.ipynb --to slides --post serve
