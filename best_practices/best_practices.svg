@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="BP_matrix.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4836"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4830"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4812"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="633.66054"
+     inkscape:cy="370.64105"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.72173011;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3599"
+       width="866.13568"
+       height="507.82971"
+       x="107.20704"
+       y="401.73309"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629" />
+    <g
+       id="g3460"
+       transform="translate(26.957222,-84.226243)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,56.850395,-144.7147)"
+         id="g3456">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3458"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(200.94928,552.14358)"
+         xml:space="preserve"
+         id="flowRoot2995"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion2997"><rect
+             id="rect2999"
+             width="681.85297"
+             height="74.751289"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           id="flowPara3001"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">pdb</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(515.67904,-179.79166)"
+       id="g3222-3" />
+    <g
+       id="g3478"
+       transform="translate(-300.66933,-95.000053)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         id="g3442"
+         transform="matrix(0.94848076,0,0,0.94848076,638.05,-133.94089)"
+         style="fill:#ff8080">
+        <rect
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:2.28415607999999981;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3444"
+           width="254.28775"
+           height="95.259216"
+           x="79.257599"
+           y="716.19812"
+           ry="28.508955" />
+      </g>
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3446"
+         xml:space="preserve"
+         transform="translate(759.25923,562.0668)"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-ydpi="150.02"><flowRegion
+           id="flowRegion3448"><rect
+             y="8.8746033"
+             x="23.233509"
+             height="72.730988"
+             width="207.08128"
+             id="rect3450" /></flowRegion><flowPara
+           id="flowPara3454"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">py.test</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(-38.76808,-94.251023)"
+       id="g3051">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,629.72187,-134.68992)"
+         id="g3053">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3055"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(727.59712,562.0668)"
+         xml:space="preserve"
+         id="flowRoot3057"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3059"><rect
+             id="rect3061"
+             width="207.08128"
+             height="72.730988"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3063">virtualenv</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(26.957222,20.829622)"
+       id="g3079">
+      <g
+         id="g3081"
+         transform="matrix(0.94848076,0,0,0.94848076,56.850395,-144.7147)">
+        <rect
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3083"
+           width="254.28775"
+           height="95.259216"
+           x="79.257599"
+           y="716.19812"
+           ry="28.508955" />
+      </g>
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3085"
+         xml:space="preserve"
+         transform="translate(172.7149,538.4136)"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-ydpi="150.02"><flowRegion
+           id="flowRegion3087"><rect
+             y="8.8746033"
+             x="23.233509"
+             height="74.751289"
+             width="681.85297"
+             id="rect3089" /></flowRegion><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3091">code</flowPara><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3251">reviews</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(-300.66933,10.055812)"
+       id="g3093">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,638.05,-133.94089)"
+         id="g3095">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3097"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(780.77144,565.22159)"
+         xml:space="preserve"
+         id="flowRoot3099"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3101"><rect
+             id="rect3103"
+             width="207.08128"
+             height="72.730988"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3249">TDD</flowPara></flowRoot>    </g>
+    <g
+       id="g3107"
+       transform="translate(-545.91425,220.91657)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         id="g3109"
+         transform="matrix(0.94848076,0,0,0.94848076,629.72187,-134.68992)">
+        <rect
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3111"
+           width="254.28775"
+           height="95.259216"
+           x="79.257599"
+           y="716.19812"
+           ry="28.508955" />
+      </g>
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3113"
+         xml:space="preserve"
+         transform="translate(759.25923,562.0668)"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-ydpi="150.02"><flowRegion
+           id="flowRegion3115"><rect
+             y="8.8746033"
+             x="23.233509"
+             height="72.730988"
+             width="207.08128"
+             id="rect3117" /></flowRegion><flowPara
+           id="flowPara3119"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">pylint</flowPara></flowRoot>    </g>
+    <g
+       id="g3135"
+       transform="translate(26.957222,125.88548)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,56.850395,-144.7147)"
+         id="g3137"
+         style="fill:#ff8080">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3139"
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:2.28415607999999981;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(200.94928,552.14358)"
+         xml:space="preserve"
+         id="flowRoot3141"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3143"><rect
+             id="rect3145"
+             width="681.85297"
+             height="74.751289"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           id="flowPara3147"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">git</flowPara></flowRoot>    </g>
+    <g
+       id="g3149"
+       transform="translate(-300.66933,115.11167)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         id="g3151"
+         transform="matrix(0.94848076,0,0,0.94848076,638.05,-133.94089)">
+        <rect
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3153"
+           width="254.28775"
+           height="95.259216"
+           x="79.257599"
+           y="716.19812"
+           ry="28.508955" />
+      </g>
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3155"
+         xml:space="preserve"
+         transform="translate(728.87935,546.56583)"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-ydpi="150.02"><flowRegion
+           id="flowRegion3157"><rect
+             y="8.8746033"
+             x="23.233509"
+             height="72.730988"
+             width="207.08128"
+             id="rect3159" /></flowRegion><flowPara
+           id="flowPara3161"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">continuous</flowPara><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3247">integration</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(-38.76808,115.8607)"
+       id="g3163">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,629.72187,-134.68992)"
+         id="g3165">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3167"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(724.55024,562.0668)"
+         xml:space="preserve"
+         id="flowRoot3169"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3171"><rect
+             id="rect3173"
+             width="207.08128"
+             height="72.730988"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3175">setuptools</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/version_control_old.png"
+       transform="translate(-96.281388,180.43372)"
+       id="g3191" />
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(-300.66933,220.16754)"
+       id="g3205">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,638.05,-133.94089)"
+         id="g3207">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3209"
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(735.30318,562.0668)"
+         xml:space="preserve"
+         id="flowRoot3211"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3213"><rect
+             id="rect3215"
+             width="207.08128"
+             height="72.730988"
+             x="23.233509"
+             y="8.8746033" /></flowRegion><flowPara
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3217">pyscaffold</flowPara></flowRoot>    </g>
+    <g
+       id="g3219"
+       transform="translate(-38.76808,10.804842)"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-ydpi="149.86629">
+      <g
+         id="g3221"
+         transform="matrix(0.94848076,0,0,0.94848076,629.72187,-134.68992)">
+        <rect
+           style="fill:#b3d789;fill-opacity:1;stroke:#000000;stroke-width:2.28415608;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect3223"
+           width="254.28775"
+           height="95.259216"
+           x="79.257599"
+           y="716.19812"
+           ry="28.508955" />
+      </g>
+      <flowRoot
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot3225"
+         xml:space="preserve"
+         transform="translate(751.45796,562.0668)"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-ydpi="150.02"><flowRegion
+           id="flowRegion3227"><rect
+             y="8.8746033"
+             x="23.233509"
+             height="72.730988"
+             width="207.08128"
+             id="rect3229" /></flowRegion><flowPara
+           id="flowPara3231"
+           style="font-size:26px;font-weight:bold;-inkscape-font-specification:Sans Bold">Sphinx</flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="149.86629"
+       inkscape:export-xdpi="149.86629"
+       inkscape:export-filename="/home/krother/Desktop/BPTalk/some_best_practices.png"
+       transform="translate(-71.05226,220.91657)"
+       id="g3233">
+      <g
+         transform="matrix(0.94848076,0,0,0.94848076,662.00605,-134.68992)"
+         id="g3235"
+         style="fill:#ff8080">
+        <rect
+           ry="28.508955"
+           y="716.19812"
+           x="79.257599"
+           height="95.259216"
+           width="254.28775"
+           id="rect3237"
+           style="fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:2.28415607999999981;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="150.02"
+         inkscape:export-xdpi="150.02"
+         inkscape:export-filename="/home/krother/Desktop/courses/python/python_roadmap_DE.png"
+         transform="translate(817.0356,543.37166)"
+         xml:space="preserve"
+         id="flowRoot3239"
+         style="font-size:60px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+           id="flowRegion3241"><rect
+             id="rect3243"
+             width="291.93408"
+             height="159.60411"
+             x="23.233509"
+             y="8.8746033"
+             style="font-size:60px" /></flowRegion><flowPara
+           style="font-size:60px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+           id="flowPara3245">?</flowPara></flowRoot>    </g>
+  </g>
+</svg>
