@@ -72,4 +72,4 @@ def parse(input_fn, output_fn):
 
 if __name__ == '__main__':
     # for testing, we convert the human file only
-    parse('data/human.fasta', 'output/human_proteome.csv')
+    parse('../data/human.fasta', '../output/human_proteome.csv')
