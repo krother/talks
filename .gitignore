@@ -1,3 +1,11 @@
 __pycache__/*
 pandas/images/milch-junkie.jpg
 pandas/.ipynb_checkpoints/
+
+debugging_tutorial/output/*.csv
+debugging_tutorial/.ipynb_checkpoints/
+debugging_tutorial/buggy_code/debug.log
+debugging_tutorial/buggy_code/debug2.log
+debugging_tutorial/data/human.fasta
+debugging_tutorial/data/chimp.fasta
+debugging_tutorial/data/banana.fasta
