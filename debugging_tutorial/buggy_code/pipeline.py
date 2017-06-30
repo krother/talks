@@ -8,7 +8,7 @@ import os
 IN_PATH = 'data/'
 OUT_PATH = 'output/'
 
-organisms = ['human', 'chimp', 'panda', 'banana']
+organisms = ['human', 'chimp', 'banana']
 
 for org in organisms:
 	in_fn = "{}/{}.fasta".format(IN_PATH, org)
@@ -24,5 +24,3 @@ z = calc_z(means)
 out_fn == open('report.txt', 'w')
 out_fn.write(str(z.abs().mean()))
 out_fn.close()
-
-
