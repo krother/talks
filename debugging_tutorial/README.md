@@ -16,9 +16,7 @@ In this tutorial, participants will learn strategies for systematically debuggin
 * Inspection of variables with `print`
 * Introspection functions
 * Using an interactive debugger
-* Pros and cons of `try.. except`
 * logging
-* Delta debugging
 
 ## Duration
 
@@ -28,10 +26,12 @@ In this tutorial, participants will learn strategies for systematically debuggin
 
 * Basic knowledge of Python 3
 
-## Installation
+## Preparations
 
-* Ipython
-* ipdb (pip install ipdb)
+* install IPython
+* install ipdb (`pip install ipdb`)
+* download data files from [https://www.dropbox.com/sh/j5eir3yenke46k2/AAAkPNvTcxbAsiRG5Fh5cHjaa?dl=0](https://www.dropbox.com/sh/j5eir3yenke46k2/AAAkPNvTcxbAsiRG5Fh5cHjaa?dl=0)
+* alternatively, download *proteomes for **human, chimp and banana** as FASTA files* from the [UniProt database](http://www.uniprot.org/proteomes/)
 
 ## Lesson Plan
 
@@ -86,3 +86,24 @@ krother@academis.eu
 ## Acknowledgements
 
 This tutorial was made possible by help from: Janick Mathys, Veit Schiele, Susanne Eiswirt, Marie Pilz, José Quesada, Chris Armbruster, Thomas Lotze, Magdalena Rother
+
+## Not covered by the tutorial
+
+* typical pandas table bugs (missing or extra headers, column types)
+* error from inside 3rd party libraries
+* invalid NAN values
+* fixing Heisenbugs and race condition
+* Unicode issues
+* catching Exceptions
+* automated testing
+* bugs with wrong filenames, permissions
+* mypy
+* bisection strategies
+* delta debugging
+
+
+## Trivia
+
+The first computer bug: http://www.computerhistory.org/tdih/September/9/
+
+How patches got their name: https://www.bram.us/wordpress/wp-content/uploads/2017/01/patch.jpg
