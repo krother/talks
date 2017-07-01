@@ -63,7 +63,7 @@ def parse(input_fn, output_fn):
             length = len(seq)
             aa_counts = []
             for aa in AMINO_ACIDS
-                aa_counts.append(seq.count('aa') / length)
+                aa_counts.append(seq.count('aa'))
 
         row = [accession, name, length] + aa_counts
         writer.writerows([row])
