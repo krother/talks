@@ -2,7 +2,7 @@
 import logging
 import sys
 
-logging.basicConfig(filename='debug.log', level=logging.WARNING)
+logging.basicConfig(filename='debug.log', level=logging.CRITICAL)
 
 
 
