@@ -5,7 +5,7 @@
 
 **Dr. Kristian Rother** (`kristian@spiced-academy.com`)
 
-Take home messages from my talk at DSSG on Apr.20th '18 
+Take home messages from my talk at DSSG on Apr.21st '18 
 
 ----
 
@@ -39,4 +39,4 @@ Take home messages from my talk at DSSG on Apr.20th '18
 * [John Zimmers Checklist](https://mannerofspeaking.files.wordpress.com/2011/11/a-public-speakers-checklist-version-3.pdf)
 
 
-**I wish you successful presentations!**
+# I wish you successful presentations!
