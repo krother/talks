@@ -7,11 +7,15 @@
 
 Take home messages from my talk at DSSG on Apr.20th '18 
 
+----
+
 ## Where to evaluate 500 speeches?
 
 ![](slide1.png)
 
-* also see: [Berliner.Rhetorik.Salon](http://rhetorik.salon)
+* Speaking club: [Berliner.Rhetorik.Salon](http://rhetorik.salon)
+
+----
 
 ## Problem #1: How to begin?
 
@@ -19,10 +23,14 @@ Take home messages from my talk at DSSG on Apr.20th '18
 
 **Other suggestions:** Quote, activity or a provocative statement
 
+----
+
 ## Problem #2: What content to show?
 ![](slide3.png)
 
 * Gold Standard: [Hans Rosling, Population Growth Box by Box](https://www.youtube.com/watch?v=fTznEIZRkLg)
+
+----
 
 ## Problem #3: How to prevent disasters?
 
@@ -31,4 +39,4 @@ Take home messages from my talk at DSSG on Apr.20th '18
 * [John Zimmers Checklist](https://mannerofspeaking.files.wordpress.com/2011/11/a-public-speakers-checklist-version-3.pdf)
 
 
-**I wish you successful presentation!**
+**I wish you successful presentations!**
