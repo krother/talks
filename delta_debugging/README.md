@@ -17,12 +17,7 @@ krother@academis.eu
 
 ## Preparations
 
-1. install `covenant`:
-
-    cd _covenant/
-    python3 setup.py install
-
-2. install `pulp`:
+install `pulp`:
    
     pip install pulp
 
@@ -80,6 +75,33 @@ The algorithm stops when the granularity cannot be increased any further (becaus
 * Few examples documented since 1999
 * Does not give the union of failing subsets
 
+## Exercise
+
+### 1. Write the function to be tested
+
+Implement a Python function `print_animals(names)` that gets a list of animal names and prints them to the screen. The function must fail with an exception if two animals that don't get along well occur in the list, e.g.:
+
+* cats and dogs
+* wolves and pigs
+* anteaters and ants
+
+*In a real-world application of Delta Debugging, this would be your code under test.*
+
+### 2. Write a test function
+
+The test function `test_animals(data)` needs to call `print_animals()` and translate the result so that the Delta Debugging algorithm can understand it:
+
+* If the function succeeds, the test function returns `'PASS'`.
+* If the function fails, the test function returns `'FAIL'`.
+
+### 3. Run the Delta Debugging algorithm
+
+Execute the test function with some example data:
+
+    data = ['pig', 'chicken', 'dog', 'anteater', 'wolf', 'piranha']
+    delta_debug(data, test_animals)
+
+See what happens!
 
 ## References
 

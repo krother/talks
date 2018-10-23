@@ -1,5 +1,5 @@
 
-# adopted from: LINK Pulp doc
+# adopted from: Sudoku example in the PuLP documentation
 
 from pulp import *
 from pprint import pprint
@@ -9,6 +9,7 @@ rows = list(range(1, 10))
 columns = list(range(1, 10))
 numbers = list(range(1, 10))
 partitions = [(1, 2, 3), (4, 5, 6), (7, 8, 9)]
+
 
 def create_model():
     """Returns a PuLP sudoku model and allocation variable"""
@@ -57,6 +58,7 @@ def add_preset_numbers(model, allocation, constraints):
         model += allocation[x][y][num] == 1
     return model
 
+
 def get_solution(allocation):
     solution = []
     for y in columns:
@@ -77,12 +79,14 @@ def get_solution(allocation):
 
     return solution
 
+
 def get_cell(x, y, positions):
     result = ' - '
     for xx, yy, num in positions:
         if xx == x and yy == y:
             result = ' {} '.format(num)
     return result
+
 
 def get_row(y, data):
     return '|{}{}{}|{}{}{}|{}{}{}|\n'.format(
@@ -100,6 +104,7 @@ def draw_sudoku(data):
     s += get_row(7, data) + get_row(8, data) + get_row(9, data)
     s += '-' * 31 + '\n'
     return(s)
+
 
 def solve_sudoku(constraints):
     """
