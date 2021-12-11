@@ -24,6 +24,16 @@ def find_path(start, exit, get_adjacent):
     raise Exception("No exit found")
 
 
+
+
+
+
+
+
+
+
+
+
 class TraversalPlayer(Player):
 
     path = None
