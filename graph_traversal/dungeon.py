@@ -108,6 +108,8 @@ class DungeonCrawl(arcade.Window):
         arcade.draw_text("Graph Traversal", 50, 840, "lightblue", 32)
         arcade.draw_text("Kristian Rother – www.academis.eu", 50, 800, "lightblue", 24)
 
+        arcade.draw_text("code: github.com/krother/talks", 50, 80, "lightblue", 24)
+
     def update(self, time_delta):
         self.level.update()
         if self.timer > 0:
