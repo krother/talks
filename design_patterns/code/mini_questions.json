@@ -1,0 +1,15 @@
+{
+    "text": "kann es fliegen?",
+    "yes": {
+        "text": "Schwalbe"
+    },
+    "no": {
+        "text": "hat es einen Rüssel?",
+        "yes": {
+            "text": "Elefant"
+        },
+        "no": {
+            "text": "Python"
+        }
+    }
+}
